@@ -1,0 +1,50 @@
+gender,major,age_range,academic_year,is_driver,current_vehicle,daily_dist_km,long_trip_freq,parking_type,min_range_req,est_gas_maint,est_ev_maint,primary_barrier,infra_trust,future_intent
+Male,Computer Science,18 - 24,2nd Year (Sophomore),yes,Gas,100,Weekly,On Street/Public Parking,500,25000,10000,Battery Life Concerns,6,Yes
+Male,Business,18 - 24,2nd Year (Sophomore),yes,Gas,100,Monthly,Private Garage,300,20000,10000,Charging Access,5,Undecided
+Male,Engineering,18 - 24,2nd Year (Sophomore),yes,Gas,40,1-2 times a year,On Street/Public Parking,300,100000,25000,I don't want an EV,8,No
+Male,Arts,18 - 24,1st Year (Freshman),yes,Gas,50,1-2 times a year,Private Garage,300,30000,250000,Charging Access,7,No
+Male,Dentistry,18 - 24,1st Year (Freshman),yes,Gas,25,Every 3 months,Private Garage,300,35000,20000,Charging Access,3,Yes
+Female,Business,18 - 24,4th Year (Senior),no,Hybrid,90,Weekly,On Street/Public Parking,150,200,1000,Battery Life Concerns,5,Yes
+Female,Business,18 - 24,4th Year (Senior),yes,Gas,50,Weekly,On Street/Public Parking,650,6000,3000,Initial Price,5,Yes
+Female,Medicine ,18 - 24,2nd Year (Sophomore),yes,Gas,50,Weekly,Private Garage,150,10000,5000,I don't want an EV,8,No
+Female,Business,18 - 24,4th Year (Senior),yes,Gas,90,Weekly,On Street/Public Parking,500,25000,12000,Battery Life Concerns,6,Yes
+Female,Business,18 - 24,4th Year (Senior),yes,Gas,60,1-2 times a year,On Street/Public Parking,650,20000,100000,I don't want an EV,1,No
+Female,Business,18 - 24,2nd Year (Sophomore),yes,Gas,150,Weekly,On Street/Public Parking,150,1500,900,Battery Life Concerns,5,Undecided
+Male,Computer Science,18 - 24,2nd Year (Sophomore),no,Gas,35,Never,On Street/Public Parking,500,12000,16000,Charging Access,1,No
+Female,Arts,18 - 24,4th Year (Senior),yes,Gas,100,Monthly,On Street/Public Parking,150,40000,30000,Battery Life Concerns,4,Undecided
+Male,Computer Science,18 - 24,2nd Year (Sophomore),yes,Gas,50,Weekly,On Street/Public Parking,150,50000,40000,Initial Price,8,Undecided
+Male,Computer Science,25 - 34,5th Year or above,yes,Gas,20,1-2 times a year,On Street/Public Parking,300,30000,50000,Charging Access,3,Undecided
+Male,Business ,18 - 24,4th Year (Senior),yes,Gas,20,Never,On Street/Public Parking,650,30000,0,I don't want an EV,8,Undecided
+Male,Computer Science,18 - 24,2nd Year (Sophomore),yes,Gas,80,1-2 times a year,On Street/Public Parking,300,80000,5000,Battery Life Concerns,4,No
+Male,Engineering,18 - 24,1st Year (Freshman),yes,Gas,20,Never,On Street/Public Parking,300,15000,10000,Battery Life Concerns,4,No
+Male,Computer Science,18 - 24,4th Year (Senior),yes,Gas,20,1-2 times a year,Private Garage,500,30000,15000,Range Anxiety,6,Undecided
+Female,Business ,18 - 24,3rd Year (Junior),yes,Gas,100,Never,Private Garage,500,20000,10000,Initial Price,7,Undecided
+Female,Business ,18 - 24,4th Year (Senior),yes,Gas,50,1-2 times a year,On Street/Public Parking,300,40000,5000,Range Anxiety,4,Undecided
+Male,Engineering,under 18,1st Year (Freshman),yes,Electric,100,Weekly,On Street/Public Parking,300,5000,5000,Charging Access,7,Undecided
+Male,Computer Science,18 - 24,2nd Year (Sophomore),no,Electric,1,Never,Private Garage,300,25000,20000,I would buy an EV,8,Yes
+Female,Computer Science,18 - 24,2nd Year (Sophomore),yes,Gas,20,1-2 times a year,Private Garage,150,2800,0,I would buy an EV,7,Yes
+Male,Engineering,18 - 24,2nd Year (Sophomore),yes,Gas,100,Weekly,Private Garage,500,60000,30000,Range Anxiety,3,No
+Female,Arts,25 - 34,5th Year or above,yes,Gas,100,Weekly,On Street/Public Parking,150,1000,500,Charging Access,5,No
+Male,Engineering,18 - 24,2nd Year (Sophomore),yes,Gas,15,Monthly,On Street/Public Parking,300,35,25,Charging Access,5,No
+Male,Engineering,25 - 34,5th Year or above,no,Gas,2.5,Never,On Street/Public Parking,150,50000,70000,Battery Life Concerns,7,Undecided
+Male,Agriculture ,25 - 34,5th Year or above,yes,Gas,66,Weekly,On Street/Public Parking,650,15000,5000,Charging Access,3,No
+Male,Computer Science,18 - 24,2nd Year (Sophomore),yes,Gas,20,Monthly,On Street/Public Parking,500,100000,60000,Charging Access,2,Undecided
+Female,Computer Science,18 - 24,2nd Year (Sophomore),yes,Gas,40,Monthly,Private Garage,150,20000,1000,Charging Access,3,Yes
+Male,Computer Science,18 - 24,2nd Year (Sophomore),no,Gas,30,Never,On Street/Public Parking,650,100000,50000,Charging Access,4,No
+Male,Computer Science,18 - 24,3rd Year (Junior),yes,Gas,60,Monthly,On Street/Public Parking,500,15000,8000,I don't want an EV,4,No
+Male,Engineering,18 - 24,2nd Year (Sophomore),yes,Electric,75,Weekly,Private Garage,300,10000,1000,I would buy an EV,7,Yes
+Male,Computer Science,18 - 24,2nd Year (Sophomore),yes,Gas,50,Monthly,On Street/Public Parking,650,50000,10000,Charging Access,5,Undecided
+Male,Computer Science,18 - 24,2nd Year (Sophomore),yes,Gas,80,Weekly,On Street/Public Parking,650,0,0,Charging Access,8,Undecided
+Male,Engineering,18 - 24,3rd Year (Junior),yes,Gas,200,Weekly,On Street/Public Parking,800+ ,100000,300000,I don't want an EV,1,No
+Male,Engineering,18 - 24,2nd Year (Sophomore),yes,Gas,1,Monthly,On Street/Public Parking,150,120,50,Battery Life Concerns,10,Undecided
+Male,Engineering,18 - 24,2nd Year (Sophomore),yes,Gas,60,Never,On Street/Public Parking,300,3000,5000,Charging Access,8,Yes
+Male,Computer Science,18 - 24,2nd Year (Sophomore),yes,Gas,60,Every 3 months,On Street/Public Parking,800+ ,20000,0,I don't want an EV,3,No
+Male,Computer Science,18 - 24,3rd Year (Junior),yes,Gas,200,Daily,On Street/Public Parking,150,1000,120,Battery Life Concerns,7,Undecided
+Male,Business ,18 - 24,1st Year (Freshman),yes,Gas,25,Every 3 months,On Street/Public Parking,800+ ,80000,20000,Charging Access,7,Undecided
+Male,Medicine ,18 - 24,1st Year (Freshman),yes,Gas,60,Every 3 months,Private Garage,800+ ,70000,20000,Battery Life Concerns,5,Undecided
+Male,Business ,18 - 24,1st Year (Freshman),yes,Electric,10,Monthly,Private Garage,500,20,500,I would buy an EV,7,Yes
+Male,Medicine ,18 - 24,1st Year (Freshman),yes,Gas,30,Every 3 months,Private Garage,150,50,3000,Range Anxiety,4,Undecided
+Male,Business ,18 - 24,3rd Year (Junior),no,Gas,5,1-2 times a year,On Street/Public Parking,500,40000,20000,I would buy an EV,7,Yes
+Male,Medicine ,18 - 24,1st Year (Freshman),yes,Gas,80,Monthly,On Street/Public Parking,500,50000,20000,Charging Access,5,Undecided
+Male,Engineering,18 - 24,4th Year (Senior),yes,Gas,30,Every 3 months,On Street/Public Parking,800+ ,25000,15000,Charging Access,5,Undecided
+Male,Computer Science,18 - 24,2nd Year (Sophomore),yes,Gas,150,Daily,Private Garage,500,8000,3000,Charging Access,7,Undecided
